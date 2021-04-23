@@ -57,4 +57,4 @@ client.user.setGame(`Send Me`)
 
 
 
-client.login("");///Dark Heilyam ///Token
+client.login("Nzk4NjEzOTI0MDI2MjUzMzcz.X_3lLQ.c4bjNjniwzmkx-CNLSDG2xcyqvA");///Dark Heilyam ///Token
